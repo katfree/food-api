@@ -1,0 +1,34 @@
+{
+  "foods": [
+    {
+      "id": 2,
+      "name": "chicken",
+      "category": "meat",
+      "ethnicity": "american"
+    },
+    {
+      "id": 3,
+      "name": "spaghetti",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "pizza",
+      "category": "bread",
+      "ethnicity": "Italian",
+      "id": 5
+    },
+    {
+      "name": "creme brulee",
+      "category": "dessert",
+      "ethnicity": "french",
+      "id": 6
+    },
+    {
+      "name": "ramen",
+      "category": "soup",
+      "ethnicity": "japanese",
+      "id": 7
+    }
+  ]
+}

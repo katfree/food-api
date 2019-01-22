@@ -1,0 +1,26 @@
+
+
+
+
+.foodList {
+   
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 25%;
+    flex-direction: row;
+    height: 250px;
+    align-items: center;
+     
+} 
+
+
+.foods {
+    display: flex;
+   
+}
+
+.foodContainer {
+    border: 1px solid palevioletred;
+    width: 20%;
+  padding-left: 10px;
+}
